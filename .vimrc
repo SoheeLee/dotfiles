@@ -1,0 +1,9 @@
+set number
+set ai
+set si
+set cindent
+set tabstop=2
+set nocompatible
+set bs=indent,eol,start
+set ruler
+set showmatch
